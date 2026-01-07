@@ -4,7 +4,7 @@ print("\033[93mWelcome To The Unofficial Flavortown Lootbox\033[0m")
 
 colors = {
     "LEGENDARY": "\033[93m", #HOLY MOLY!!!!!
-    "PURPLE": "\033[95m",
+    "PURPLE": "\033[95m", #GUACAMOLE
     "BLUE": "\033[94m",
     "GREEN": "\033[92m",
     "RED": "\033[0;31m",
@@ -34,3 +34,4 @@ else if random_number = random.randint(1, 60) == 50
             else LOOT = Common
 
 print('LOOT')
+
