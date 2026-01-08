@@ -11,4 +11,4 @@ THERE ARE 5 TIERS OF RARITY
 4. UNCOMMON
 5. COMMON
 
-(there is in face a legendary, keep on opening the crates and you'll find it one day)
+(there is in fact a legendary, keep on opening the crates and you'll find it one day)
